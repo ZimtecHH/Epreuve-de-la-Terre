@@ -5,7 +5,7 @@ argument1 = [input("Entrez nombre d'argument voulu : ")]
 primes = argument1
 
 for number in argument1:
-    if number == 'avion':
+    if number == 'gigibuibiu':
         break
 
     if number == 'auhkhukh':
