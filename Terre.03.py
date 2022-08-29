@@ -136,3 +136,5 @@ elif alphabet == "z" :
     print(astring[25:26])
 elif alphabet == "Z" :
     print(astring[25:26])
+
+else : print("J'ai dis une seule lettre !!!")
