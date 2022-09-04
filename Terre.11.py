@@ -2,7 +2,7 @@
 # affichée en format 24h
 # en une heure affichée en format 12h.
 
-heure = int(input("Rentrez l'heure sous format 12 heures : "))
+heure = int(input("Rentrez l'heure sous format 24 heures : "))
 
 minute = int(input("Rentrez les minutes : "))
 
